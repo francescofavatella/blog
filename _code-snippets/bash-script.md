@@ -1,9 +1,9 @@
 ---
-permalink: /bash-script.html
+title: Bash script
 ---
-# Bash script
 
 ## Arrays
+
 ```
 #! /bin/bash
 

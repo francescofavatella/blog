@@ -6,8 +6,8 @@ collections:
   english:
     output: true
 
-# defaults:
-#   - scope:
-#       path: ""
-#     values:
-#       layout: "tutorial"
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "tutorial"

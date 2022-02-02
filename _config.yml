@@ -1,11 +1,13 @@
+theme: jekyll-theme-primer
+
 collections:
   code-snippets:
     output: true
   english:
     output: true
 
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: "tutorial"
+# defaults:
+#   - scope:
+#       path: ""
+#     values:
+#       layout: "tutorial"

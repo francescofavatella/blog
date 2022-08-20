@@ -21,5 +21,5 @@ collections:
 defaults:
   - scope:
       path: ""
-    # values:
-      # layout: "tutorial"
+    values:
+      layout: "tutorial"

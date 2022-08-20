@@ -1,3 +1,3 @@
 # How To
 
-https://francescofavatella.github.io/how-to/
+https://francescofavatella.github.io/blog/

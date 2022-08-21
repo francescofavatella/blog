@@ -3,8 +3,6 @@ layout: post
 title:  "20 Questions To Ask Your Next Employer"
 ---
 
-# 20 Questions To Ask Your Next Employer
-
 In this episode, Dave Farley, of Continuous Delivery, talks about [20 Questions To Ask Your Next Employer](https://www.youtube.com/watch?v=2Afk9KVEgpE).
 
 Check his YouTube Channel [Continuous Delivery](https://www.youtube.com/c/ContinuousDelivery) for more videos.

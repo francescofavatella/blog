@@ -82,3 +82,15 @@ depthFirstPrintRecursive(graph, 'a'); // abdfce
 
 breadthFirstPrintIterative(graph, 'a'); // acbedf
 ```
+
+## Bonus: Time complexity
+
+$O(n^2)$ -> nested loop
+
+$O(n \log{n})$ -> sort
+
+$O(n)$
+
+$O(\log{n})$ - binary search
+
+$O(1)$ -> hash map

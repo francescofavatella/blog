@@ -40,16 +40,16 @@ const depthFirstPrintIterative = (graph, source) => {
 		const current = stack.pop(); // read from the back
 		console.log(current);
 
-		for (let neighbor of graph[current]){
-			stack.push(neighbor); // add to the back
+		for (let neighbour of graph[current]){
+			stack.push(neighbour); // add to the back
 		}
 	}	
 };
 
 const depthFirstPrintRecursive = (graph, source) => {
 	console.log(current);
-	for(let neighbor of graph[source]){
-		depthFirstPrintRecursive(graph, neighbor);
+	for(let neighbour of graph[source]){
+		depthFirstPrintRecursive(graph, neighbour);
 	}
 };
 
@@ -57,12 +57,12 @@ const depthFirstPrintRecursive = (graph, source) => {
 const breadthFirstPrintIterative = (graph, source) => {
 	const queue = [source];
 
-	while(stack.length > 0){
-		const current = stack.shift(); // read from the head
+	while(queue.length > 0){
+		const current = queue.shift(); // read from the head
 		console.log(current);
 
-		for (let neighbor of graph[current]){
-			stack.push(neighbor); // add to the back
+		for (let neighbour of graph[current]){
+			queue.push(neighbour); // add to the back
 		}
 	}
 

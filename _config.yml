@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 title: Francesco's blog
+author: Francesco Favatella
+
 # description: Blog description
 
 
@@ -23,3 +25,11 @@ defaults:
       path: ""
     values:
       layout: "tutorial"
+
+
+# plugins used
+plugins:
+  - jekyll-feed
+
+feed:
+  path: feed.xml

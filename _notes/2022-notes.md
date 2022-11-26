@@ -48,9 +48,11 @@ title: 2022 Notes
 
 [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
 
-[Kubernetes Security Best Practices you need to know | THE Guide for securing your K8s cluster!](https://www.youtube.com/watch?v=oBf5lrmquYI)
+[Kubernetes Security Best Practices you need to know - THE Guide for securing your K8s cluster!](https://www.youtube.com/watch?v=oBf5lrmquYI)
+#youtube
 
 [Common Apache Kafka Mistakes to Avoid](https://www.youtube.com/watch?v=HkUfzavcLj0)
+#youtube
 
 ## 2022-06
 
@@ -71,6 +73,7 @@ title: 2022 Notes
 [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
 
 [From Batch to Real-Time: Tips for Streaming Data Pipelines with Apache Kafka ft. Danica Fine](https://www.youtube.com/watch?v=vL_79dmF_8s)
+#youtube
 
 [Kafka Connect and KSQL: Useful Tools in Migrating from a Legacy System to Kafka Streams (Alex Leung and Danica Fine, Bloomberg L.P.) Kafka Summit NYC 2019](https://videos.confluent.io/watch/KCpQFZQzL1dtJCQJMRaKjz)
 

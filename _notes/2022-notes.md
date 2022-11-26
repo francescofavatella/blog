@@ -4,7 +4,7 @@ title: 2022 Notes
 ## 2022-11
 
 ### Team Topologies – Book Review
-https://www.davefarley.net/?p=360
+(https://www.davefarley.net/?p=360)
 
 ### 5 Things I Learned About Being a Technical Lead
 https://www.davefarley.net/?p=366

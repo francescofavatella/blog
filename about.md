@@ -1,3 +1,5 @@
-# About page is here
+---
+title: About
+---
 
 Wellcome to the about page

@@ -19,6 +19,9 @@ collections:
     output: true
   english:
     output: true
+  notes:
+    output: true
+    
 
 defaults:
   - scope:

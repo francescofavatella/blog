@@ -18,11 +18,11 @@ Check his YouTube Channel [Continuous Delivery](https://www.youtube.com/c/Contin
 
 
 ### Intrisic (Internal to the person)
-- Leraning about a subject because it fascinates you
-- Tidyng up because you like a tidy work area
+- Learning about a subject because it fascinates you
+- Tidying up because you like a tidy work area
 
 ## Intrisinc Motivators
-Better when it comes to work for complex tasks
+They are better when it comes to work for complex tasks
 
 ### Purpose
 - Does their purpose match your goals?
@@ -44,8 +44,8 @@ Better when it comes to work for complex tasks
 High performing teams can
 - Make large-scale changes to the design of its system without permission from someone outside the team
 - Make large-scale changes to the design of its system without depending on other teams to make changes in their own systems or creating significant work for other teams
-- Complete its work without needing fine grained communication and coordination with peiople outisde the team
-- Deploy and release its product or service on demand independently of other service ths product or sercice depens upon
+- Complete its work without needing fine grained communication and coordination with people outside the team
+- Deploy and release its product or service on demand independently of other service ths product or service depends upon
 
 ## Markers of Motivation
 
@@ -54,7 +54,7 @@ High performing teams can
 - How do you set objectives and targets?
 - Who has responsibility for the design, test & quality of code?
 - If a new feature needs the code to be reshaped who decides?
-- What was the last bit SW failure and How did you deal with it?
+- What was the last bit of SW failure and How did you deal with it?
 
 ### Mastery
 - How will you support my learning on the job?
@@ -67,21 +67,21 @@ High performing teams can
 - What are the goals of this org?
 - If you achieve your goals, what will that look like?
 - How does this fit with my goals?
-- Am I excited to help achieve thise goals, or to work with these people?
+- Am I excited to help achieve these goals, or to work with these people?
 
 ## Markers of CD 
 - What determines releasability?
 - Who makes decisions on design?
 - How often do they release?
-- Can I see a feature/story or at least could they descibe an example?
+- Can I see a feature/story or at least could they describe an example?
 - How many bugs do they have?
 - Do they know what DORA scores are?
 - Do they know their DORA scores?
 - How do they communicate design ideas?
 - How long would it take to get a worked dev env up and running?
-- If you find a problem ina piece of code, how do they handle that?
+- If you find a problem in a piece of code, how do they handle that?
 - How do they test? Ho do they test for a release?
-- Views on Feature Branching vs TBD?
+- Views on Feature Branching vs Trunk Based Development?
 
 ## Good signs if they value
 - Individuals & Interactions over processes and tools

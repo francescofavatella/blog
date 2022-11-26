@@ -9,9 +9,7 @@ title: 2022 Notes
 
 ## 2022-10
 
-[A multi-dimensional approach helps you proactively prepare for failures - Part 1: Application layer](https://aws.amazon.com/it/blogs/architecture/a-multi-dimensional-approach-helps-you-proactively-prepare-for-failures-part-1-application-layer/)
-
-[microservices-on-aws](https://docs.aws.amazon.com/pdfs/whitepapers/latest/microservices-on-aws/microservices-on-aws.pdf)
+[A multi-dimensional approach helps you proactively prepare for failures - Part 1: Application layer](https://aws.amazon.com/it/blogs/architecture/a-multi-dimensional-approach-helps-you-proactively-prepare-for-failures-part-1-application-layer/)  ([microservices-on-aws](https://docs.aws.amazon.com/pdfs/whitepapers/latest/microservices-on-aws/microservices-on-aws.pdf))
 
 [A multi-dimensional approach helps you proactively prepare for failures - Part 2: Infrastructure layer](https://aws.amazon.com/it/blogs/architecture/a-multi-dimensional-approach-helps-you-proactively-prepare-for-failures-part-2-infrastructure-layer/)
 

@@ -3,6 +3,8 @@ title: 2022 Notes
 ---
 ## 2022-11
 
+[The rise and fall of the Dungeon Master](https://medium.com/@ziobrando/the-rise-and-fall-of-the-dungeon-master-c2d511eed12f)
+
 [Team Topologies – Book Review](https://www.davefarley.net/?p=360) #DaveFarley
 
 [5 Things I Learned About Being a Technical Lead](https://www.davefarley.net/?p=366) #DaveFarley

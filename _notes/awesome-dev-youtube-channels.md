@@ -44,6 +44,10 @@ title: Awesome Dev YouTube Channels
 
 [Jack Herrington](https://www.youtube.com/@jherr/videos)
 
+### Java
+
+[Coding with John](https://www.youtube.com/@CodingWithJohn/videos)
+
 ### DevOps
 
 [Bret Fisher Docker and DevOps](https://www.youtube.com/@BretFisher/videos)

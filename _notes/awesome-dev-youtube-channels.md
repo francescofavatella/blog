@@ -1,28 +1,6 @@
 ---
-title: Awesome YouTube Channels
+title: Awesome Dev YouTube Channels
 ---
-
-## English
-
-[English Like A Native](https://www.youtube.com/@EnglishLikeANative/videos)
-
-[Learn English with Papa Teach Me](https://www.youtube.com/@papateachme/videos)
-
-[English with Lucy](https://www.youtube.com/@EnglishwithLucy/videos)
-
-[Interactive English](https://www.youtube.com/@InteractiveEng/videos)
-
-### EngVid
-
-[English with Emma · engVid](https://www.youtube.com/@engvidEmma/videos)
-
-[Learn English with Rebecca · engVid](https://www.youtube.com/@engvidRebecca/videos)
-
-[Adam’s English Lessons · engVid](https://www.youtube.com/@engvidAdam/videos)
-
-[English with Alex · engVid English Classes](https://www.youtube.com/@engvidAlex/videos)
-
-[ENGLISH with James · engVid](https://www.youtube.com/@engvidJames/videos)
 
 ## Software Development
 
@@ -75,3 +53,13 @@ title: Awesome YouTube Channels
 [DevOps Toolkit](https://www.youtube.com/@DevOpsToolkit/videos)
 
 [NetworkChuck](https://www.youtube.com/@NetworkChuck/videos)
+
+### Conferences
+
+[Devoxx](https://www.youtube.com/@DevoxxForever/videos)
+
+[GOTO Conferences](https://www.youtube.com/@GOTO-/videos)
+
+[AWS Events](https://www.youtube.com/@AWSEventsChannel/videos)
+
+[InfoQ](https://www.youtube.com/@infoq/videos)

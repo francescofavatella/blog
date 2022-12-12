@@ -4,6 +4,8 @@ title: 2022 Notes
 
 ## 2022-12
 
+[Focus on high-leverage activities.](https://addyosmani.com/blog/high-leverage-activites/)
+
 [Modular Monoliths • Simon Brown • GOTO 2018](https://www.youtube.com/watch?v=5OjqD-ow8GE)
 
 [Majestic Modular Monoliths by Axel Fontaine](https://www.youtube.com/watch?v=BOvxJaklcr0)

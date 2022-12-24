@@ -4,6 +4,10 @@ title: 2022 Notes
 
 ## 2022-12
 
+[Should You Specialize or Be a Generalist? | Tim Ferriss](https://www.youtube.com/watch?v=wCPbPMRNnvk)
+
+[Designing my life's System](https://www.iamtk.co/designing-my-lifes-system)
+
 [Focus on high-leverage activities.](https://addyosmani.com/blog/high-leverage-activites/)
 
 [Modular Monoliths • Simon Brown • GOTO 2018](https://www.youtube.com/watch?v=5OjqD-ow8GE)

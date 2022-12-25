@@ -4,6 +4,8 @@ title: Awesome Books
 
 ## 2022
 
+[How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life](https://www.amazon.co.uk/dp/1491518855)
+
 [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://www.amazon.co.uk/dp/0996128107)
 
 [Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations](https://www.amazon.co.uk/dp/0137424604)
